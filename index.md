@@ -1,5 +1,3 @@
-Backend Dev, Data, and Learning Blog
-======
 
 My blog's committment\:
 -----
